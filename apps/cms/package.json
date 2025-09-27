@@ -46,7 +46,7 @@
     "eslint-config-supabase": "workspace:*",
     "graphql": "^16.11.0",
     "image-size": "2.0.2",
-    "lucide-react": "^0.511.0",
+    "lucide-react": "^0.542.0",
     "next": "catalog:",
     "payload": "3.52.0",
     "pg": "^8.16.3",
